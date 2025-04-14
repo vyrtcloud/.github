@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### Welcome to Vyrt CLoud 
+### Welcome to Vyrt Cloud 
 
 <!--
 
