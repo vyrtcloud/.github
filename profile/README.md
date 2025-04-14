@@ -3,8 +3,6 @@
 
 ### Welcome to Vyrt CLoud 
 
-You are not Pascal or Alex? Fuck off!
-
 <!--
 
 **Here are some ideas to get you started:**
